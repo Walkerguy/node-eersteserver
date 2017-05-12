@@ -4,8 +4,8 @@
 var express = require('express');
 var routes = express.Router();
 
-var mijnObject = { 
-	mijntekst: 'Hello World?',
+var mijnObject = {
+	mijntekst: 'Hello brim?',
 	label: "Nog meer tekst",
 	mijnarray: [ "tekst", "nog meer tekst", 2 ],
 	mijnobject: {
